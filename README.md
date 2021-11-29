@@ -29,7 +29,7 @@ If you've found this library useful, please consider [becoming a Sponsor](https:
 
 ## Installation
 
-`composer require jlevers/selling-partner-api`
+`composer require forum-brands/selling-partner-api`
 
 
 ## Getting Started
