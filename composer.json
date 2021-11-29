@@ -1,5 +1,5 @@
 {
-    "name": "jlevers/selling-partner-api",
+    "name": "forum-brands/selling-partner-api",
     "version": "4.1.9",
     "description": "PHP client for Amazon's Selling Partner API",
     "keywords": [
@@ -19,6 +19,10 @@
         {
             "name": "Jesse Evers",
             "homepage": "https://jesseevers.com"
+        },
+        {
+            "name": "Joaquín Gamboa Figueroa",
+            "homepage": "https://forumbrands.com"
         }
     ],
     "require": {
